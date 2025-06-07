@@ -22,7 +22,7 @@ FRONTEND_URI=http://localhost:3000
 ```
 
 # How To use 
-visit codewithkrishna Youtube channel 
+
 
 
 
