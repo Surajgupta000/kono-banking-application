@@ -26,7 +26,7 @@ FRONTEND_URI=http://localhost:3000
 
 
 
-![image](https://github.com/user-attachments/assets/2a62e003-07f0-4c30-ad80-63203be7c43a)
+![image](https://github.com/Surajgupta000/kono-banking-application/blob/main/assests/Screenshot%202025-06-06%20124730.png)
 ![image](https://github.com/user-attachments/assets/712f80b2-89ea-4c7c-9f9f-8cde302e7e12)
 
 
